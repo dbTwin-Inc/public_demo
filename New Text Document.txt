@@ -1,0 +1,7 @@
+Simple GitHub repo with tabular datasets for dbTwin synthetic datasets
+
+List of datasets and sources 
+
+- adult_income.csv:  https://www.kaggle.com/datasets/uciml/adult-census-income
+
+- alarm.csv: 
