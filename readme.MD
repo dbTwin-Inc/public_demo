@@ -17,3 +17,5 @@ List of datasets and sources
 - expedia_hotel_logs.csv : https://www.kaggle.com/competitions/expedia-hotel-recommendations/data   Subject to rules and is_booking is not target (hotel_cluster is )
 
 - online_shopping.csv: https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
+
+- NBA datasets from 2004 to 2025: https://github.com/DomSamangy/NBA_Shots_04_25
