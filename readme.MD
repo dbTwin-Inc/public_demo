@@ -19,3 +19,6 @@ List of datasets and sources
 - online_shopping.csv: https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
 
 - NBA datasets from 2004 to 2025: https://github.com/DomSamangy/NBA_Shots_04_25
+
+-census_income.csv : https://archive.ics.uci.edu/dataset/117/census+income+kdd  (CC BY 4.0)
+
